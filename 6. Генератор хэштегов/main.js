@@ -8,7 +8,7 @@ function generateHashtag(str) {
 	newStr.forEach(el => {
 		
 		let up = el[0].toUpperCase()
-		console.log(el)
+		// console.log(el)	
 	})
 
 }
